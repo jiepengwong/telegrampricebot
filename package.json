@@ -1,0 +1,23 @@
+{
+  "name": "telegrampricebot",
+  "version": "1.0.0",
+  "description": "\"# telegrampricebot\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiepengwong/telegrampricebot.git"
+  },
+  "keywords": [],
+  "author": "JP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiepengwong/telegrampricebot/issues"
+  },
+  "homepage": "https://github.com/jiepengwong/telegrampricebot#readme",
+  "dependencies": {
+    "telegraf": "^4.5.2"
+  }
+}
