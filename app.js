@@ -197,6 +197,7 @@ bot.on("text", async (ctx) => {
       .then((res) => {
         ctx.deleteMessage()
         console.log("Hi there is supposed to be an output here");
+        console.log(res[1]);
 
         ctx.telegram.sendMessage(
           ctx.message.chat.id,
